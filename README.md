@@ -11,7 +11,7 @@
 
 - I am currently looking at [TreeSitter](https://tree-sitter.github.io/tree-sitter/), [egg](https://egraphs-good.github.io/) and would love to chat about [NeoVim](https://neovim.io/) any day, feel free to shoot an email `kunapsow at gmail . com`
 
-- I am looking for an internship for Summer 25, if you have something related to PL or HPC, I'd be eager to know more.
+- I am looking for an internship for Summer 25, if you have something related, I'd be eager to know more.
 <!---
 sowmith1999/sowmith1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
