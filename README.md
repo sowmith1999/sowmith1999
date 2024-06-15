@@ -7,7 +7,7 @@
   
 - I am currently working at [HARP Lab](https://github.com/harp-lab) as a Graduate RA on Program Analysis and Deductive Databases.
   
-- Learning stuff like, How souffle does [automatic index selection](https://sowmithk.com/blog/2024/souffle-auto-index/) for Datalog Queries; How to put a [Relational Join on GPU](https://github.com/sowmith1999/gpu_joins); and How to write a [functional compiler](https://github.com/harp-lab/brouhaha).
+- Learning stuff like How to do [automatic index selection](https://sowmithk.com/blog/2024/souffle-auto-index/) for Datalog Queries; How to put a [Relational Join on GPU](https://github.com/sowmith1999/gpu_joins); and How to write a [functional compiler](https://github.com/harp-lab/brouhaha).
 
 - I am currently looking at [TreeSitter](https://tree-sitter.github.io/tree-sitter/), [egg](https://egraphs-good.github.io/) and would love to chat about [NeoVim](https://neovim.io/) anyday, feel free to shoot an email `"kunap_sow_@_gmail_._com".replace('_','')`
 
