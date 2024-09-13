@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Sowmith K</h1>
-<h3 align="center">A Graduate Student in CS at The University of Alabama at Birmingham</h3>
+<h3 align="center">A Graduate Student in CS at Washington State University</h3>
 
 - All of my projects are available here on [GitHub](https://github.com/sowmith1999)
   
